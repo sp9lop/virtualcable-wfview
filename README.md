@@ -1,4 +1,5 @@
-# virtualcabel-wfview
+# virtualcable-wfview
+
 Add virtual cable can connect wfview to other software on ubuntu 26.04
 Just copy 10-hamradio.conf to:
 
